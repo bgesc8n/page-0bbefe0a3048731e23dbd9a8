@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8d70f6191c1c0bb131e564c7",
+  "owner": "bgesc8n",
+  "repo": "page-0bbefe0a3048731e23dbd9a8",
+  "title": "极速火箭",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0bbefe0a3048731e23dbd9a8",
+      "a": "极速火箭",
+      "b": "稳定全球clash加速器",
+      "entity": "极速火箭",
+      "brand": "极速火箭",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b227b4524cefd87548399309a60892faff1b0e9d46b349ff8850b8dd0fc9297b",
+      "content": {
+        "primary_entity": "极速火箭",
+        "keyword1": "极速火箭",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "不同设备对订阅格式和客户端适配有差异，可先确认系统版本再选择对应工具。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "现在挑选适合你的套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖每月100GB至1000GB流量，支持3台至20台设备同时在线。旗舰版与团队版分别加入IPLC专线、专属高带宽节点等配置，按年付可享更低的月均支出。",
+          "AI_FEATURES_INTRO": "从流量、设备数量到线路类型，三档套餐对应不同使用强度。",
+          "AI_FEATURES_TITLE": "套餐选择与适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量，支持3台设备同时在线，适合轻量浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB，支持5台设备，含IPLC专线游戏加速与全节点原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB，支持20台设备，提供VIP专属高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备量匹配",
+          "AI_FEATURE_TITLE_2": "旗舰配置更均衡",
+          "AI_FEATURE_TITLE_3": "团队协作高带宽",
+          "AI_GUIDE_INTRO": "先确认套餐和设备数量，再选客户端并导入订阅信息即可完成配置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "极速火箭提供基础版、旗舰版和团队版三档订阅，流量从每月100GB到1000GB，支持多设备同时在线，旗舰版与团队版分别提供IPLC专线及VIP高带宽节点，按年付更省。",
+          "AI_HERO_SUBTITLE": "多档订阅满足不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版¥15/月、旗舰版¥35/月、团队版¥85/月，按年付分别为¥150、¥350、¥850，可按流量和在线设备数量选择。",
+          "AI_PLANS_TITLE": "套餐对比与价格",
+          "AI_STEP_TEXT_1": "根据日常流量消耗和同时在线设备数量，从三档套餐中选定一档。",
+          "AI_STEP_TEXT_2": "核对设备系统版本与客户端适配要求，确认订阅格式与节点类型相符。",
+          "AI_STEP_TEXT_3": "按照所选客户端的订阅配置文档导入链接，保存后连接测试。",
+          "AI_STEP_TITLE_1": "选择订阅套餐",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "极速火箭多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。按用量和设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "基础版适合单人轻度使用；旗舰版有 IPLC 专线与原生流媒体解锁，适合影音和游戏；团队版适合多人多设备共享。",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台，旗舰版 5 台，团队版 20 台同时在线。设备多就选团队版，设备少基础版足够。",
+          "AI_FAQ_ANSWER_4": "在所选客户端中找到订阅导入入口，填入订阅地址并更新即可。不同客户端位置略有差异，可参照对应客户端文档操作。",
+          "AI_FAQ_ANSWER_5": "套餐按月计费，也提供年付选项，如基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，长期使用年付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三个套餐的流量和设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "基础版和旗舰版主要差别在哪里？",
+          "AI_FAQ_QUESTION_3": "同时在线设备数量怎么选？",
+          "AI_FAQ_QUESTION_4": "订阅配置在客户端里怎么导入？",
+          "AI_FAQ_QUESTION_5": "计费周期有哪些，年付划算吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--ucss-3v4gm16f.com",
+    "host": "xn--ucss-3v4gm16f.com"
+  },
+  "file_hashes": {
+    "index.html": "b384a81c475d55e710765b8e28ec332e7c2ae8ff7083db30af97f61a8fcbdb51",
+    "sitemap.xml": "e7da564dcd838c8046589e2dad97f1a3271a1b88cae68dccb2d41c0925265efb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ede2db41423103c13a6de7ed7c096fbc88bd62ab8ced296151a66a436155bb7d",
+    "robots.txt": "bd92a2acecbd7a731be6b2bca4ba4cc61f02735af3253700d6bd30c47096be15",
+    "64760bca80ffb12a118ad91e5fedac7d.txt": "ed325f3314f19a98a652b80a76bfcbaef3ecf7d01287fd7c0e0d2e6cbd0c25ec"
+  },
+  "revision": "4270c51256c0cac3e4a56183611a774cafe7b7a34dfbe97ce1e2eabf417d174b"
+}
